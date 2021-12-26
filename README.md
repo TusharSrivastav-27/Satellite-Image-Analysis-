@@ -9,7 +9,7 @@ open source and trained it using Deeplearning.
 ![image](https://user-images.githubusercontent.com/71928146/147399913-8c9379cf-d527-4e7b-8322-051eb33cde68.png)
 
 
-Our model can predict 3 categories from the satellite images i.e Residential area, Sealake and Highways. We can increase it's number of classes to detect more categories like stadium, car etc.
+Our model can predict 3 categories from the satellite images i.e Residential area, Sealake and Highways. It create red box around Highway, Green around Residential and Blue around SeaLake. We can increase it's number of classes to detect more categories like stadium, car etc.
 
 
 ## Model prediction:-
